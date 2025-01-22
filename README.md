@@ -1,5 +1,5 @@
 # PlantsEcommerce
-Ecommerce site with browsing and cart. Responsive display for mobile.
+Plants Ecommerce site, built with React, with browsing and cart. Responsive display for mobile.
 
 Utilizes React, with TailWinds CSS.
 
