@@ -19,7 +19,7 @@ A responsive plant e-commerce web app built as a capstone project. Browse a cata
 
 | Layer | Technology |
 |---|---|
-| UI Framework | [Preact](https://preactjs.com/) (React-compatible) |
+| UI Framework | React |
 | Routing | React Router DOM v6 |
 | Styling | Tailwind CSS v3 |
 | Build Tool | Vite |
